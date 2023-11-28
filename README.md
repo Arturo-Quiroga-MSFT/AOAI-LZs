@@ -1,4 +1,4 @@
-# AOAI-LZs
+# Azure OpenAI Landing Zones (AOAI LZs)
 
 
 This repository offers a comprehensive guide for developing Enterprise-Grade Azure OpenAI Landing Zones, aligning with the Microsoft Well-Architected Framework. It serves as a resource to facilitate the deployment of Azure Open AI and complementary Azure services in a production environment. The content herein is intended to be a foundational reference, highlighting key considerations and best practices.
