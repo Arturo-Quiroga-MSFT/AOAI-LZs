@@ -1,3 +1,5 @@
+# Microsoft Autogen
+
 Microsoft AutoGen is a sophisticated framework designed for developing next-generation applications that utilize large language models (LLMs). Here's a detailed overview based on multiple sources:
 
 Complex LLM-Based Workflows and Multi-Agent Conversations: AutoGen enables the creation of complex workflows based on LLMs using a multi-agent conversation framework. This allows for the design of applications where different agents, which can be based on LLMs, tools, humans, or a combination thereof, interact to accomplish tasks. The framework supports a variety of complex conversation patterns, making it versatile and adaptable to different application needs​​.

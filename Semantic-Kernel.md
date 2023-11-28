@@ -1,3 +1,5 @@
+# Microsoft Semantic Kernel
+
 Microsoft Semantic Kernel is an advanced software development kit (SDK) designed to integrate AI services with conventional programming languages, enabling developers to build intelligent applications efficiently. Here's a detailed overview:
 
 Open-Source and Versatile Integration: Semantic Kernel is an open-source SDK that facilitates the easy combination of AI services like OpenAI, Azure OpenAI, and Hugging Face with popular programming languages such as C#, Python, and Java​​​​. This versatility allows developers to create AI applications that harness the strengths of both AI and traditional programming.
